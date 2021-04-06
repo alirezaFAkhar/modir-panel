@@ -32,3 +32,7 @@
     border: none;
     margin: 0 .6rem;
 }
+.header-notifictation{
+    position: absolute;
+    left: 0;
+}
