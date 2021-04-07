@@ -35,4 +35,28 @@
 .header-notifictation{
     position: absolute;
     left: 0;
+    margin-top: .2rem;
+    width: 16rem;
+    background-color: white;
+    color: #000;
+    box-shadow:  0 1px 20px 0 rgba(70, 90, 100, 0.08);
+    display: none;
+}
+.notifictation-img{
+    width: 3rem;
+    border-radius: .1rem;
+}
+.notifictation-user{
+ font-size: .8rem;
+ font-weight: bold;
+ margin-top: .3rem;
+}
+.notifictation-text{
+  font-size: .7rem;
+  line-height: .7rem;
+}
+.notifictation-time{
+ font-size: .6rem;
+  line-height: .6rem;
+  color: #919aa3;
 }
