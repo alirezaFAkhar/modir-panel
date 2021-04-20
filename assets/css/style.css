@@ -1,23 +1,18 @@
-@font-face{
-    font-family: IRANsans;
-    src: url('../fonts/IRAnSans/IRANSansWeb_Light.woff') format('woff');
+@font-face {
+  font-family: IRANsans;
+  src: url("../fonts/IRAnSans/IRANSansWeb_Light.woff") format("woff");
 }
 
-
-
-
-*{
-    direction: rtl;
-    text-align: right;
-    font-family: IRANsans;
-
+* {
+  direction: rtl;
+  text-align: right;
+  font-family: IRANsans;
 }
 
-.bg-grey{
-    background-color: #484e67;
-    color: #dcdcdc;
-    
+.bg-grey {
+  background-color: #484e67;
+  color: #dcdcdc;
 }
-.pointer{
-    cursor: pointer;
+.pointer {
+  cursor: pointer;
 }
