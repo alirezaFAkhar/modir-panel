@@ -16,3 +16,9 @@
 .pointer {
   cursor: pointer;
 }
+.bg-custom-yellow {
+  background: linear-gradient(to right, #feb798, #fe9365);
+}
+.bg-custom-yellow {
+  background: linear-gradient(to right, #feb798, #fe9365);
+}
